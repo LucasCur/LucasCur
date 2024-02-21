@@ -4,7 +4,7 @@
 - I am a Year 12 Computer Science, Mathematics and Physics student studying at Beths Grammar School.
 - I love the challenges that come with creating - whether it be within a creative or technical environment, despite how intricate they may be, as it allows me to enhance both my critical thinking and problem-solving skills.
 
-## CONNECT WITH ME 🌐
+# CONNECT WITH ME 🌐
 
 [![Linkedin](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2)](https://www.linkedin.com/in/lucascurrann/)
 [![Behance](https://img.shields.io/badge/behance-white?style=for-the-badge&logo=behance&logoColor=white&color=%231769FF)](https://www.behance.net/lucascurran)
