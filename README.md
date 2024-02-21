@@ -11,6 +11,7 @@
 ## 🌐 Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2)](https://www.linkedin.com/in/lucascurrann/)
+[![Behance](https://img.shields.io/badge/behance-white?style=for-the-badge&logo=behance&logoColor=white&color=%231769FF)](https://www.behance.net/lucascurran)
 
 # 💻 Tech Stack:
 Languages: 
