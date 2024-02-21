@@ -21,10 +21,11 @@ Languages:
 ![HTML5](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
 ![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%23323330)
+![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
 
 ![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=postgresql&logoColor=white&color=%23003B57)
 
-Software Proficiencies:
+Content Management Systems:
 
 [![Typo3](https://img.shields.io/badge/typo3-ffffff?style=for-the-badge&logo=typo3&logoColor=white&color=%23FF8700)](https://typo3.com)
 
