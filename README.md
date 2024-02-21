@@ -1,36 +1,35 @@
 <h1 align="center">My name is Lucas Curran</h1>
 
 # 💫 About Me:
-I am a Year 12 Computer Science, Mathematics and Physics student studying at Beths Grammar School.
-I love the challenges that come with creating - whether it be within a creative or technical environment, despite how intricate they may be, as it allows me to enhance both my critical thinking and problem-solving skills.
+- I am a Year 12 Computer Science, Mathematics and Physics student studying at Beths Grammar School.
+- I love the challenges that come with creating - whether it be within a creative or technical environment, despite how intricate they may be, as it allows me to enhance both my critical thinking and problem-solving skills.
 
 ## 🚀 What I'm Up To
 
 - 🤖 Writing this page. :-)
 
-Check out my [coding portfolio!](https://erikc-portfolio.netlify.app/)
-
-## 🎓 About Me
-
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
-
-- [Instagram](https://www.instagram.com/swerikcodes/)
-- [TikTok](https://www.tiktok.com/@swerikcodes)
-- [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
-
-
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascurrann/)
+
+[![Linkedin](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2)](https://www.linkedin.com/in/lucascurrann/)
 
 # 💻 Tech Stack:
 Languages: 
 
+[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)](https://www.python.org)
+[![Go](https://img.shields.io/badge/golang-white?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)](https://go.dev/)
 
-![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB&link=https%3A%2F%2Fwww.python.org%2F)
+![HTML5](https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
+![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
+![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%23323330)
+
+![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=postgresql&logoColor=white&color=%23003B57)
 
 Software Proficiencies:
-![Typo3](https://img.shields.io/badge/typo3-ffffff?style=for-the-badge&logo=typo3&logoColor=white&color=%23FF8700&link=https%3A%2F%2Ftypo3.com%2F)
+
+[![Typo3](https://img.shields.io/badge/typo3-ffffff?style=for-the-badge&logo=typo3&logoColor=white&color=%23FF8700)](https://typo3.com)
 
 Development Tools:
-![Git](https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git&logoColor=white&color=%23F05032&link=https%3A%2F%2Fgit-scm.com%2F)
-docker
+
+[![Git](https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)](https://git-scm.com) 
+[![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)](https://www.docker.com/)
+
