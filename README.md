@@ -1,5 +1,5 @@
-<h1 align="center">Heya, 👋 I'm Lucas Curran</h1>
-
+#<h1 align="center">Heya, 👋 I'm Lucas Curran</h1>
+![Heya, I'm Lucas Curran](https://i.imgur.com/IYz7CNq.png)
 # 💫 About Me:
 - I am a Year 12 Computer Science, Mathematics and Physics student studying at Beths Grammar School.
 - I love the challenges that come with creating - whether it be within a creative or technical environment, despite how intricate they may be, as it allows me to enhance both my critical thinking and problem-solving skills.
