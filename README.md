@@ -10,8 +10,11 @@
 [![Behance](https://img.shields.io/badge/behance-white?style=for-the-badge&logo=behance&logoColor=white&color=%231769FF)](https://www.behance.net/lucascurran)
 
 # ALT ACCOUNTS
-`Account focused on game development` [![Static Badge](https://img.shields.io/badge/%40%20rzmo-white?style=social&logo=github&labelColor=%23181717)](https://www.github.com/rzmo)
-`Account for storage of random code` [![Static Badge](https://img.shields.io/badge/%40%20vaom-white?style=social&logo=github&labelColor=%23181717)](https://www.github.com/vaom)
+[![Static Badge](https://img.shields.io/badge/%40%20rzmo-white?style=social&logo=github&labelColor=%23181717)](https://www.github.com/rzmo)
+`Account focused on game development`
+
+[![Static Badge](https://img.shields.io/badge/%40%20vaom-white?style=social&logo=github&labelColor=%23181717)](https://www.github.com/vaom)
+`Account for storage of random code`
 
 
 # TECH STACK 💻
