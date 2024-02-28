@@ -28,3 +28,9 @@
 
 [![Git](https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)](https://git-scm.com) 
 [![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)](https://www.docker.com/)
+
+# CURRENTLY ✨
+
+- Studying for my A-Level qualifications.
+- Working on MarkdownCanvas, an open-source Markdown editor and live previewer.
+- Working with Skaarhoj.
