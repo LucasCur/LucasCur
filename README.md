@@ -10,7 +10,7 @@
 [![Behance](https://img.shields.io/badge/behance-white?style=for-the-badge&logo=behance&logoColor=white&color=%231769FF)](https://www.behance.net/lucascurran)
 
 # TECH STACK 💻
-## Languages: 
+## Languages/Tools/Frameworks: 
 
 [![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)](https://www.python.org)
 [![Go](https://img.shields.io/badge/golang-white?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)](https://go.dev/)
