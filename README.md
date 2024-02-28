@@ -22,9 +22,6 @@
 
 [![NodeJS](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933)](https://nodejs.org/)
 ![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=postgresql&logoColor=white&color=%23003B57)
-
-## Content Management Systems:
-
 [![Typo3](https://img.shields.io/badge/typo3-ffffff?style=for-the-badge&logo=typo3&logoColor=white&color=%23FF8700)](https://typo3.com)
 
 ## Development Tools:
