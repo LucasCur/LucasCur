@@ -32,5 +32,5 @@
 # CURRENTLY ✨
 
 - Studying for my A-Level qualifications
-- Working privately as a Software Consultant (leveraging Golang and the HTML5 stack)
+- Working privately as a Software Consultant (using Golang and the HTML5 stack)
 - Working on MarkdownCanvas, an open-source Markdown editor and live previewer
