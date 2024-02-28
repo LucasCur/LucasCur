@@ -23,7 +23,8 @@
 [![NodeJS](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933)](https://nodejs.org/)
 ![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=postgresql&logoColor=white&color=%23003B57)
 [![Typo3](https://img.shields.io/badge/typo3-ffffff?style=for-the-badge&logo=typo3&logoColor=white&color=%23FF8700)](https://typo3.com)
+
+## Development Tools:
+
 [![Git](https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)](https://git-scm.com) 
 [![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)](https://www.docker.com/)
-
-
