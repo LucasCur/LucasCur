@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%23323330)
 ![TypeScript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
 
+[![NodeJS](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933)](https://nodejs.org/)
 ![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=postgresql&logoColor=white&color=%23003B57)
 
 ## Content Management Systems:
