@@ -1,5 +1,4 @@
 <big><pre>
-
 **\$ whoami**
 Lucas Curran
 
@@ -13,7 +12,6 @@ Open to collaborations, freelance projects, work and cool open-source ideas.
 
 **\$ echo $OTHER**
 [github.com/nyctlol](https://github.com/nyctlol) # alternate github account
-
 </pre></big>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyctlol&repo=general-utils&theme=dark&hide_border=true#gh-light-mode-only)](https://github.com/nyctlol/general-utils#gh-dark-mode-only)
