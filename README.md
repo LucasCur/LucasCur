@@ -1,33 +1,26 @@
-```bash
-$ whoami
-your-username
+<big><pre>
+**\$ whoami**
+Lucas Curran
 
-$ availability
-Currently open to collaborations, freelance projects, and cool open-source ideas.
+**\$ availability**
+Open to collaborations, freelance projects, work and cool open-source ideas.
 
-$ contact
-📧 lucas.cur@outlook.com
-🌐 https://nyct.lol/
-🐦 https://linkedin.com/in/lucas-cur
+**\$ echo $CONTACT**
+[lucas.cur@outlook.com](mailto:lucas.cur@outlook.com) # email
+[nyct.lol](https://www.nyct.lol/) # porfolio website
+[linkedin.com/in/lucas-cur](https://linkedin.com/in/lucas-cur/)
 
-$ alternative account
-https://github.com/nyctlol/
-```
+**\$ echo $OTHER**
+[github.com/nyctlol](https://github.com/nyctlol) # alternate github account 
+</pre></big>
 
-## 👋 About Me
-I'm a passionate developer who loves building creative projects, exploring new tech, and contributing to open-source.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyctlol&repo=general-utils)](https://github.com/nyctlol/general-utils)
 
 ## 🚀 Skills & Technologies
-- **Languages:** Python, JavaScript, HTML/CSS, SQL
-- **Frameworks:** Flask, Bootstrap, Node.js
-- **Tools:** Git, Docker, PostgreSQL, Photoshop
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-## 🛠 Projects
-- **[Project 1](https://github.com/your-username/project1)** – Short description of what it does.
-- **[Project 2](https://github.com/your-username/project2)** – Short description of what it does.
+- **Languages:** Python, JavaScript, PHP, HTML/CSS, SQL
+- **Frameworks & Libraries:** Next.js, React, FastAPI, Flask, Tailwind CSS, Bootstrap, Node.js
+- **Databases & Tools:** PostgreSQL, Docker, Git
+- **Design:** Adobe Creative Cloud, Figma, Photoshop
 
 ---
 ⭐ *If you like my work, consider giving my repos a star!*
