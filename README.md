@@ -11,17 +11,12 @@ Open to collaborations, freelance projects, work and cool open-source ideas.
 [linkedin.com/in/lucas-cur](https://linkedin.com/in/lucas-cur/)
 
 **\$ echo $OTHER**
-[github.com/nyctlol](https://github.com/nyctlol) # alternate github account </pre></big>
+[github.com/nyctlol](https://github.com/nyctlol) # alternate github account
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyctlol&repo=general-utils&theme=dark&hide_border=true#gh-light-mode-only)](https://github.com/nyctlol/general-utils#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyctlol&repo=general-utils&theme=default#gh-light-mode-only)](https://github.com/nyctlol/general-utils#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyctlol&repo=general-utils&theme=dark&hide_border=true#gh-light-mode-only)](https://github.com/nyctlol/general-utils#gh-dark-mode-only)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyctlol&repo=general-utils&theme=default#gh-light-mode-only)](https://github.com/nyctlol/general-utils#gh-light-mode-only)</pre></big>
 
----
-<big> 🚀 Skills & Technologies </big>
+### 🚀 Skills & Technologies </big>
 - **Languages:** Python, JavaScript, PHP, HTML/CSS, SQL
 - **Frameworks & Libraries:** Next.js, React, FastAPI, Flask, Tailwind CSS, Bootstrap, Node.js
 - **Databases & Tools:** PostgreSQL, Docker, Git
 - **Design:** Adobe Creative Cloud, Figma, Photoshop
-
-
-⭐ *If you like my work, consider giving my repos a star!*
