@@ -18,3 +18,5 @@ Open to collaborations, freelance projects, work and cool open-source ideas.
 - **Frameworks & Libraries:** Next.js, React, FastAPI, Flask, Tailwind CSS, Bootstrap, Node.js
 - **Databases & Tools:** PostgreSQL, Docker, Git
 - **Design:** Adobe Creative Cloud, Figma, Photoshop
+
+[![github-bio](https://github.com/lucascur/github-bio)](https://github.com/lucascur/github-bio)
