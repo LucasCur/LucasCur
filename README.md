@@ -8,7 +8,7 @@ Open to collaborations, freelance projects, work and cool open-source ideas.
 **\$ echo $CONTACT**
 [lucas.cur@outlook.com](mailto:lucas.cur@outlook.com) # email
 [nyct.lol](https://www.nyct.lol/) # porfolio website
-[linkedin.com/in/lucas-cur](https://linkedin.com/in/lucas-cur/)
+[linkedin.com/in/lucas-cur](https://linkedin.com/in/lucas-cur/)</pre></big>
 
 ### 🚀 Skills & Technologies </big>
 - **Languages:** Python, JavaScript, PHP, HTML/CSS, SQL
