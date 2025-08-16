@@ -10,9 +10,6 @@ Open to collaborations, freelance projects, work and cool open-source ideas.
 [nyct.lol](https://www.nyct.lol/) # porfolio website
 [linkedin.com/in/lucas-cur](https://linkedin.com/in/lucas-cur/)
 
-**\$ echo $OTHER**
-[github.com/nyctlol](https://github.com/nyctlol) # alternate github account</pre></big>
-
 ### 🚀 Skills & Technologies </big>
 - **Languages:** Python, JavaScript, PHP, HTML/CSS, SQL
 - **Frameworks & Libraries:** Next.js, React, FastAPI, Flask, Tailwind CSS, Bootstrap, Node.js
