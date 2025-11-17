@@ -11,7 +11,7 @@ Open to collaborations, freelance projects, work and cool open-source ideas.
 [linkedin.com/in/lucas-cur](https://linkedin.com/in/lucas-cur/)</pre></big>
 
 <small>
-A lot of the work I do is commission-based and under an NDA, or simply not open-source, so if you need examples of previous work, feel free to contact me!
+A lot of the work I do is either commission-based and protected under an NDA, or simply not an open-source project I can display here, so if you need examples of previous work, feel free to contact me so I can provide you with examples!
 </small>
 
 ### Skills & Technologies
