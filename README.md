@@ -10,10 +10,8 @@ Open to collaborations, freelance projects, work and cool open-source ideas.
 [lucascur.dev](https://www.lucascur.dev/) # porfolio website
 [linkedin.com/in/lucas-cur](https://linkedin.com/in/lucas-cur/)</pre></big>
 
-### 🚀 Skills & Technologies </big>
-- **Languages:** Python, JavaScript, PHP, HTML/CSS, SQL
-- **Frameworks & Libraries:** Next.js, React, FastAPI, Flask, Tailwind CSS, Bootstrap, Node.js
-- **Databases & Tools:** PostgreSQL, Docker, Git
+### Skills & Technologies
+- **Languages:** Python, JavaScript, TypeScript, PHP, HTML/CSS, Golang, SQL
+- **Frameworks & Libraries:** Next.js, React, FastAPI, Flask, Tailwind CSS, Bootstrap, Node.js, Bun
+- **Databases & Tools:** PostgreSQL, MongoDB, Docker, Git, Redis
 - **Design:** Adobe Creative Cloud, Figma, Photoshop
-
-[![github-bio](https://githubbio.vercel.app/api/repo?username=lucascur&repo=github-bio)](https://github.com/lucascur/github-bio)
